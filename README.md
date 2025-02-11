@@ -5,13 +5,21 @@ Invorderingsrente percentages
 De volgende percentages zijn van toepassing op de invorderingsrente:
 
 Periode	Percentage
+
 01-01-2025 - 30-06-2025	4,0%
+
 01-01-2024 - 31-12-2024	4,0%
+
 01-07-2023 - 31-12-2023	3,0%
+
 01-01-2023 - 30-06-2023	2,0%
+
 01-07-2022 - 31-12-2022	1,0%
+
 23-03-2020 - 30-06-2022	0,01%
+
 01-04-2014 - 22-03-2020	4,0%
+
 Let op: Dit programma gebruikt de meest actuele beschikbare rentestanden, maar controleer altijd of er wijzigingen zijn doorgevoerd via de Belastingdienst.
 
 Vereisten
