@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-1ffa3cd57a5c15f0b023.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Invrenteberekenen",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Invrenteberekenen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Invrenteberekenen-Debug-2f5d5a80dd39aaa234fc.json",
+					"name" : "Invrenteberekenen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Invrenteberekenen_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Invrenteberekenen_autogen-Debug-0441c13a8c5560be432d.json",
+					"name" : "Invrenteberekenen_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Invrenteberekenen_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Invrenteberekenen_autogen_timestamp_deps-Debug-4f693ce6f942c3e91b1f.json",
+					"name" : "Invrenteberekenen_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/invrente/Invrenteberekenen/build/Desktop_Qt_6_7_0_MSVC2019_64bit-Debug",
+		"source" : "C:/invrente/Invrenteberekenen"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
